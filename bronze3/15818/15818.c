@@ -24,8 +24,8 @@ int main(){
 //만약 sum*a[i]가 max보다 크면 b에 sum을 저장하고
 //안 커도 b에 저장하고 하면..아 복잡하네 
 //저장 안하고 나머지를 구해버리고?
-// sum을 1로 바꾸고
-// 다시 a[i]%m들을 sum에 곱하고
+//sum을 1로 바꾸고
+//다시 a[i]%m들을 sum에 곱하고
 //b[i]를 곱해서 나눈다 ?
 //걍 답 봤음 
 // https://developer-bbyakk.tistory.com/96
